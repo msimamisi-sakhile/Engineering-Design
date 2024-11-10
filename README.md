@@ -11,7 +11,7 @@ This repository contains structured reports for various electrical engineering d
 
     A report detailing the design and implementation of a smart weight scale. It includes information on system architecture, sensor integration, and data handling.
     
-
+# Repository Structure
 📂 Electrical-Engineering-Design\
 │\
 ├── 📂 IMU_Data_Compression_and_Encryption ---> 📄 Report.pdf\
